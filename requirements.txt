@@ -1,0 +1,11 @@
+pyttsx3
+wikipedia
+pywhatkit
+requests
+SpeechRecognition==3.10.0
+gTTS==2.5.4
+pygame==2.6.1
+requests==2.31.0
+beautifulsoup4==4.12.3
+plyer==2.1.0
+googletrans==4.0.0rc1
